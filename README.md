@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kwakuduah12
 - 👀 I’m interested in software engineering and development
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on any project that uses python program
+- 🌱 I'm proficient in Java, Python, JavaScript 
+- 💞️ I’m looking to collaborate on any project that uses the above-listed programs
 - 📫 You can reach me via email pdegraft@stetson.edu or LinkedIn at Philip Kwaku Duah De-Graft
 
 <!---
