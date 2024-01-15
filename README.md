@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kwakuduah12
-- 👀 I’m interested in software engineering and development
-- 🌱 I'm proficient in Java, Python, JavaScript 
+- 👋 Hi, I’m Philip Kwaku Duah De-Graft
+- 👀 I’m interested in data science and software engineering and development
+- 🌱 I'm proficient in Java, Python, C#, HTML, CSS and JavaScript 
 - 💞️ I’m looking to collaborate on any project that uses the above-listed programs
 - 📫 You can reach me via email pdegraft@stetson.edu or LinkedIn at Philip Kwaku Duah De-Graft
 
